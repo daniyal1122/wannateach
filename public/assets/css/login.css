@@ -1,0 +1,43 @@
+
+.login{
+border:none;
+
+padding:0px 40px 20px 40px;
+border-left:4px solid #008F00;
+
+
+
+font-family: "Open Sans", Arial, sans-seriffont-size:14px;
+
+}
+.login1{
+border:none;
+padding:0px 40px 20px 40px;
+font-family: "Open Sans", Arial, sans-seriffont-size:14px;
+border-top: 4px solid #008f00;
+border-right: 1px solid gray;
+border-left: 1px solid gray !important;
+border-bottom: 1px solid gray;
+border-radius: 10px;
+}
+
+.lost{
+text-decoration:none;
+ font-size:14px;
+color:#008F00;
+}
+
+.button{
+
+background-color:#008F00;
+border:1px solid #008F00;
+
+}
+.button:hover{
+
+background-color:white;
+border:1px solid #008F00;
+color:#008F00;
+
+
+}

@@ -1,0 +1,124 @@
+/* - - - - - - - REUSABLE ELEMENTS - - - - - - - */
+.a{
+font-weight:normal;
+font-size:22px;
+text-decoration:none;
+color:#008F00;
+}
+	.a:hover{
+font-weight:normal;
+font-size:22px;
+text-decoration:none;
+color:black;
+}
+.a:visited{
+font-weight:normal;
+font-size:22px;
+text-decoration:none;
+color:#008F00;
+}
+.tag{
+padding:4px;
+background:#008F00;
+color:white;
+text-decoration:none;
+min-height:50px;
+line-height:30px;
+border:1px solid white;
+font-size:12px;
+}
+.tag:hover{
+padding:4px;
+background:white;
+color:#008F00;
+border:1px solid #008F00;
+text-decoration:none;
+min-height:50px;
+line-height:30px;
+font-size:12px;
+}
+
+
+
+.div{
+width:70%;
+
+}
+.right-sidebar{
+
+padding:0px;
+margin-top:40px;
+
+min-height:200px;
+float:right;
+width:300px;
+}
+
+
+
+
+
+ .question {
+  padding: 20px 225px 40px 0px;
+ border-bottom:4px solid #f3f3f3;
+  position: relative;
+  min-height: 120px;
+
+}
+.questions {
+  padding: 20px 200px 40px 0px;
+ 
+  position: relative;
+  min-height: 120px;}
+ 
+
+.question{
+padding:20px 0px 20px 0px;
+	border-bottom: 1px solid #e3e3e3;
+  transition: all 0.4s ease-in;
+}
+.question:hover{
+background:#f4f4f4;
+}
+ .votes {
+float:left;
+  position: absolute;
+  top: 0px; right: 40px;
+}
+
+ .votes strong {
+  height: 30px; width: 30px;
+  background: #008F00;
+  text-align: center;
+  color: #fff;
+  -webkit-border-radius: 30px;
+  -moz-border-radius: 30px;
+  border-radius: 30px;
+  line-height: 30px;
+  font-weight: 600;
+  font-family: Karbon, "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 16px;
+  position: absolute;
+  top: 35px; left: 0;
+}
+
+.recent{
+padding-left:0px !important;
+padding-right:0px !important; 
+border:1px solid #f1f1f1;
+border-radius:10px; 
+background:#fff;
+margin-right:10px;
+overflow:hidden; 
+min-height:150px; 
+margin-bottom:20px;
+    word-wrap: break-word;
+}
+.header{
+padding: 11px 15px;
+margin-bottom: 0; 
+border-bottom: 1px solid #e0e0e0; 
+    word-wrap: break-word;
+}
+
+
